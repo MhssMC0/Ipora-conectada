@@ -30,13 +30,12 @@ Gamificação Cidadã: Sistema de medalhas virtuais (ex: "Zelador do Bairro") pa
 ## Interação 2
 **Prompt:**
 
-Estou criando um aplicativo para a população relatar problemas urbanos (buracos, iluminação). Além do mapa e do relato básico, quais outras 3 funcionalidades focadas em engajamento comunitário eu posso incluir para tornar o app mais útil?
+O maior desafio do meu app de zeladoria urbana é fazer as pessoas continuarem usando depois do primeiro relato. Me dê 3 ideias de dinâmicas ou recursos simples para manter os cidadãos engajados.
 
 **Resultado:**
 
-Votação de Relevância: Permitir que outros usuários apoiem ("votinhem") o mesmo problema para criar um ranking visual de urgência no mapa.
+Linha do Tempo do Problema: Envie notificações automáticas a cada mudança de status (ex: 'Sua denúncia mudou para: Em Análise pela Secretaria'). Transparência gera confiança.
 
-Linha do Tempo do Status: Atualizações automáticas do poder público mudando o status de "Aberto" para "Em Análise", "Em Execução" e "Resolvido".
+Votação Comunitária (Upvote): Permita que vizinhos cliquem em 'Também tenho esse problema' no mapa. Isso evita relatos repetidos e mostra quais problemas são prioritários para o bairro.
 
-Gamificação Cidadã: Sistema de medalhas virtuais (ex: "Zelador do Bairro") para os usuários que mais reportarem problemas reais ou confirmarem resoluções.
-
+Painel de Impacto: Crie uma aba no perfil do usuário mostrando o impacto dele, como: 'Você ajudou a resolver 3 problemas na sua região este mês'."
