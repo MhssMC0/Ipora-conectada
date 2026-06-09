@@ -8,7 +8,7 @@ Este projeto consiste no desenvolvimento de um aplicativo de zeladoria urbana e 
 - Uender Barbosa de Souza
 
 ## Protótipo no Figma
-[[Cole aqui o link de visualização do Figma]](https://www.figma.com/design/sdQcLNxnr6UTUWS1kgBqIm/Prot%C3%B3tipo---Ipor%C3%A1-Conectada?node-id=3-2&t=Mh6AS1Y3IdgcNxmi-1)
+[[Link de visualização do Figma]](https://www.figma.com/design/sdQcLNxnr6UTUWS1kgBqIm/Prot%C3%B3tipo---Ipor%C3%A1-Conectada?node-id=3-2&t=Mh6AS1Y3IdgcNxmi-1)
 ## Uso de Inteligência Artificial
 Consulte o arquivo [USO_IA.md](./USO_IA.md) para ver como (e se) utilizamos IA neste projeto.
 
