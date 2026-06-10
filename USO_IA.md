@@ -1,6 +1,6 @@
 # Registro de Uso de Inteligência Artificial
 
-**Projeto:** Iporá VIas Conectadas.
+**Projeto:** Iporá Conectada.
 
 **Grupo:** Jhonata Ribeiro Sampaio, Matheus Hnerique Silva Santos, Rian Tavares Vieira, Uender Barbosa de Souza.
 
@@ -21,7 +21,7 @@ Estou criando um aplicativo para a população relatar problemas urbanos (buraco
 
 **Resultado:**
 
-Votação de Relevância: Permitir que outros usuários apoiem ("votinhem") o mesmo problema para criar um ranking visual de urgência no mapa.
+Votação de Relevância: Permitir que outros usuários apoiem ("votem") o mesmo problema para criar um ranking visual de urgência no mapa.
 
 Linha do Tempo do Status: Atualizações automáticas do poder público mudando o status de "Aberto" para "Em Análise", "Em Execução" e "Resolvido".
 
